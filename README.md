@@ -1,0 +1,2 @@
+# Analysis-on-Airlines-Delay
+To analyse airlines delay data in USA and curve delays caused in major airlines between busiest routes which will give a fair idea to passengers about frequency of delays in general for a period of one year along with a particular airline and between a particular route. This will help customers for choosing a better airlines and taking a right call based on the weather for a particular region. Also,the same will also help airlines for better management and work on root cause of the delays.
